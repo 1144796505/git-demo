@@ -1,5 +1,5 @@
 hello Git
 hello Git
 
-wq
+wq hot-fit
 222
